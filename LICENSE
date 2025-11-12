@@ -1,21 +1,23 @@
-MIT License
+**Copyright (c) 2025 client-script**
 
-Copyright (c) 2025 client-script
+---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+**Permission is hereby granted**, subject to the following restrictions, to any person obtaining a copy of this software and associated documentation files (the "Software"):
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. You may use the Software personally or in projects, but **you may not copy, merge, publish, sublicense, or sell copies** without the explicit written consent of the creator.
+2. **Distribution of the Software is only allowed via the direct, unchanged link**: [https://github.com/client-script/client-script.cheatmenu/](https://github.com/client-script/client-script.cheatmenu/), except where explicit permission is granted for hyperlinking.
+3. **Modifying or reverse-engineering the Software is prohibited** unless specifically allowed below.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+**Exceptions to modification/reverse-engineering restrictions:**
+
+* Only the following file(s) or folder(s) may be modified or reverse-engineered:
+
+  * `Roblox` folder: https://github.com/client-script/client-script.cheatmenu/blob/main/Roblox
+* Specific exceptions within that folder:
+
+  * `SpamBot-ServerHopper.lua`: https://github.com/client-script/client-script.cheatmenu/blob/main/Roblox/SpamBot-ServerHopper.lua
+
+---
+
+**Disclaimer:**
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
